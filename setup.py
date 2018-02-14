@@ -23,7 +23,7 @@ setup(
     description='A simple library to interface with AdtPulse.com built for use with Home-Assistant',
     long_description=long_description,
     url='https://github.com/mariniertje/python_adtpulsedotcom',
-    download_url='https://github.com/mariniertje/python_adtpulsedotcom/tarball/' + __version__,
+    download_url='https://github.com/mariniertje/python_adtpulsedotcom/archive/' + __version__,
     license='BSD',
     classifiers=[
       'Development Status :: 3 - Alpha',
